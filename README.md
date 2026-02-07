@@ -2,6 +2,31 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+<div align="center">
+  <h3>Desenvolvedor Pleno Full-Stack na MV Saúde 🚀</h3>
+
+  <p>
+    💻 <strong>Front-end:</strong><br/>
+    Vue, Angular, Bootstrap, Nuxt, PrimeVue, Tailwind, CSS, HTML5
+  </p>
+
+  <p>
+    💻 <strong>Back-end:</strong><br/>
+    Python, Java, C#, .NET Framework, FastAPI, Flask, PostgreSQL, SQL Server, OracleDB, GraphQL
+  </p>
+
+  <p>
+    💼 <strong>Ferramentas:</strong><br/>
+    Git, Docker, Kubernetes, Jira, AWS, RabbitMQ
+  </p>
+</div>
+
+###
+
 ###
 
 <div align="center">
