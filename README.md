@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center">
-  Desenvolvedor Pleno Full-Stack na MV Saúde 🚀
+  Desenvolvedor Pleno Full-Stack 🚀
 </h2>
 
 <p align="center">
